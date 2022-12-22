@@ -1,8 +1,8 @@
 👋 Hi, I’m Rom3roDev, and I'm a:
       
-  - college student 👨‍🎓
-  - Programmer on C# 👨‍💻
-  - Videogame Developer on Unity) 🐱‍💻
+  - Computational Mathematics student 👨‍🎓
+  - C and C# programmer 👨‍💻
+  - Videogame Developer on Unity 🐱‍💻
   - Writter 🐱‍👓
   - and Artist 👨‍🎨
 
