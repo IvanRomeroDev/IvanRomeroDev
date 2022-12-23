@@ -17,6 +17,44 @@
 
 <h1>
   Hello There
-  <img src="https://media.giphy.com/media/Tlb4G3sLepRkfp7Ytc/giphy.gif" width="45px"/>
+  <img src="https://media.giphy.com/media/LmlBSpCbZTNfNoWrtb/giphy.gif" width="50px"/>
 </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="800" height="200"/>
+</div>
+
+---
+
+### 👨‍💻 About Me :
+
+I am a Game Developer and Programmer from Mexico.
+
+- 👨‍🎓 Currently studying Computational Mathematics at <a href="https://www.cimat.mx">CIMAT</a>.
+- 🤓 Learning new things every day.
+- 🍕 In my free time, I play videogames and create a variety of digital content.
+- 🔎 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RomeroDev-darkblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanelromero/)
+
+---
+
+### 🛠️ Languages and Tools:
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Ps" width="50" height="50">
+</div>
+
+---
+
+### ⚡ My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanRomeroDev&theme=modern-lilac2&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)ㅤ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanRomeroDev&show_icons=true&theme=material-palenight&hide_border=true)
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRomeroDev&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
